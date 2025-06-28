@@ -12,6 +12,10 @@
 
 ignite-template-reactjs-conceitos-do-react
 
+Esse projeto tem como objetivo praticar os conceitos aprendidos no primeiro módulo da trilha Ignite do curso de ReactJS da empresa Rocketseat. 
+
+O obejtivo final do projeto consistia em fazer adições de tarefas, remoções de tarefas e atualizações das mesmas, realizando um controle entre tarefas completas e pendentes.
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -19,7 +23,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+  Feito com 💜 by João Pedro
 </p>
 
 
